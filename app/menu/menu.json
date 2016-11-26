@@ -1,0 +1,20 @@
+[
+	{
+		"id" : "ck-noodle",
+		"name" : "Chong Kor Noodle",
+		"img" : "ck-noodle.jpg",
+		"rating" : 4.6
+	},
+	{
+		"id" : "apple-strudel",
+		"name" : "Apple Strudel",
+		"img" : "apple-strudel.jpg",
+		"rating" : 3.6
+	},
+	{
+		"id" : "mango-strudel",
+		"name" : "Mango Strudel",
+		"img" : "mango-strudel.jpg",
+		"rating" : 5.0
+	}	
+]
